@@ -98,3 +98,13 @@ footer span {
     font-size: 30px;
   }
 }
+
+@media (680px <= width <= 1096px) {
+  .main {
+    display: flex;
+  }
+
+  .pic img {
+    width: 30rem;
+  }
+}
